@@ -1,5 +1,5 @@
 datadog:
-  '5.8.2': 
+  '5.8.2.0': 
     full_name: 'Datadog Windows Agent CLI 5.8.2'
     installer: 'https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-5.8.2.msi'
     uninstaller: 'https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-5.8.2.msi'
